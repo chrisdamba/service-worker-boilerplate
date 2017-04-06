@@ -1,0 +1,8 @@
+node_modules/
+public/
+
+.DS_STORE
+.tmp
+bower_components/
+.log
+/*.log

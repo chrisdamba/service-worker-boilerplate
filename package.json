@@ -1,0 +1,28 @@
+{
+  "name": "service-worker-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdamba/service-worker-boilerplate.git"
+  },
+  "keywords": [
+    "service-worker",
+    "gulp"
+  ],
+  "author": "Christopher Dambamuromo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisdamba/service-worker-boilerplate/issues"
+  },
+  "homepage": "https://github.com/chrisdamba/service-worker-boilerplate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-util": "^3.0.8"
+  }
+}
